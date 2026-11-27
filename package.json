@@ -39,13 +39,13 @@
   "author": "Talenttrust Team",
   "license": "MIT",
   "dependencies": {
-    "@asteasolutions/zod-to-openapi": "^7.3.4",
-    "@stellar/stellar-sdk": "^13.0.0",
-    "axios": "^1.16.1",
+    "@asteasolutions/zod-to-openapi": "^9.1.0",
+    "@stellar/stellar-sdk": "^17.4.0",
+    "axios": "^1.21.1",
     "better-sqlite3": "^11.5.0",
     "bullmq": "^5.71.0",
     "cors": "^2.8.5",
-    "express": "^4.22.2",
+    "express": "^4.22.3",
     "helmet": "^7.1.0",
     "ioredis": "^5.4.1",
     "jsonwebtoken": "^9.0.2",
@@ -55,11 +55,11 @@
     "winston": "^3.10.0",
     "xss": "^1.0.15",
     "yaml": "^2.8.3",
-    "zod": "^3.23.8"
+    "zod": "^4.6.7"
   },
   "overrides": {
     "uuid": "^14.0.0",
-    "fast-uri": "^3.1.2",
+    "fast-uri": "^3.1.9",
     "autocannon": {
       "uuid": "^9.0.0"
     },
@@ -82,8 +82,8 @@
     "@types/supertest": "^6.0.2",
     "@types/swagger-ui-express": "^4.1.8",
     "@types/uuid": "^10.0.0",
-    "@typescript-eslint/eslint-plugin": "^8.59.0",
-    "@typescript-eslint/parser": "^8.59.0",
+    "@typescript-eslint/eslint-plugin": "^8.74.0",
+    "@typescript-eslint/parser": "^8.74.0",
     "autocannon": "^2.4.1",
     "axios-mock-adapter": "^2.1.0",
     "cross-env": "^7.0.3",
